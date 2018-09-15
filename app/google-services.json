@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652966161318",
+    "firebase_url": "https://infoenspm.firebaseio.com",
+    "project_id": "infoenspm",
+    "storage_bucket": "infoenspm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652966161318:android:9f57416f9318c940",
+        "android_client_info": {
+          "package_name": "com.derteuffel.infoenspm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652966161318-9ba90f60vo615pv4e4mp665o5spib97b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.derteuffel.infoenspm",
+            "certificate_hash": "51bb2f080053daed17d9ec42f5decd50098349b6"
+          }
+        },
+        {
+          "client_id": "652966161318-o1qjeuhv679bf4ptrkhev6qs1v4mco0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlBbXlYdBTtzco3z9vWjYU9QghbixPcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652966161318-o1qjeuhv679bf4ptrkhev6qs1v4mco0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

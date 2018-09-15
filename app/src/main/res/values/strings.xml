@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Info ENSPM</string>
+    <string name="start_image">Start_Image</string>
+    <string name="welcome_text">Bienvenue à l\' ENSPM</string>
+    <string name="start_image_view">start_image</string>
+    <string name="textview">Bienvenu dans la plateforme de l\'Ecole Nationale
+        Superieur Polytechnique de Maroua !!!!! ici vous trouverez l\'ensemble des informations concernant l\'ecole durant
+        tout votre sejour au sein de cette institution et nous vous assurons que vous allez aimer</string>
+    <string name="start_btn">Commencer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name_posted">User Name</string>
+    <string name="post_title">Titre de la Publication</string>
+    <string name="post_date">Date de Publication</string>
+    <string name="connected_user_name">User Name</string>
+    <string name="connected_filiere">Filière</string>
+    <string name="login_logo">Login logo</string>
+    <string name="login_tite">Page d\'authentification</string>
+    <string name="login_email">Email...</string>
+    <string name="todo_email">email icon</string>
+    <string name="todo_pass">password_logo</string>
+    <string name="login_password">Password...</string>
+    <string name="login_btn">Connexion</string>
+    <string name="reg_link">Deja un compte?</string>
+    <string name="reg_pass_conf">Confirmer votre mot de passe...</string>
+    <string name="reg_btn">Creer le compte</string>
+    <string name="reg_title">Page de creation d\'un Compte</string>
+    <string name="login_link">Etes vous Nouveau??</string>
+    <string name="date_publication">Date de publication</string>
+    <string name="user_post_name">User Name</string>
+    <string name="post_title_details">Titre de la publication</string>
+    <string name="post_description_details">Ici votre description de la publication</string>
+    <string name="user_profile_name">Nom...</string>
+    <string name="user_profile_first_name">Prenom...</string>
+    <string name="user_profile_phone">Numero de téléphone...</string>
+    <string name="user_profile_email">Email...</string>
+    <string name="user_profile_filiere">Filiere...</string>
+    <string name="user_profile_quartier">Quartier....</string>
+    <string name="name_profile">name</string>
+    <string name="user_firstname">firstName</string>
+    <string name="user_phone">phone</string>
+    <string name="user_filiere">Filiere</string>
+    <string name="user_email">Email</string>
+    <string name="user_quartier">Quartier</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/search_menu"
+        android:title="Rechercher"
+        app:showAsAction="always"
+        android:icon="@mipmap/search_icon"/>
+    <item android:id="@+id/refresh_menu"
+        android:title="Actualiser"
+        app:showAsAction="always"
+        android:icon="@mipmap/refresh_icon"/>
+    <item android:id="@+id/profil_menu"
+        android:title="Profil"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/logout_menu"
+        android:title="Deconnexion"
+        app:showAsAction="never" />
+    <item android:id="@+id/notification_menu"
+        android:title="Notifications"
+        app:showAsAction="always"
+        android:icon="@mipmap/notification_icon"/>
+
+</menu>
